@@ -1,5 +1,5 @@
 public class Secundaria {
     public static void main(String[] args) {
-        System.out.println("bye bye");
+        System.out.println("Knowledge is Power");
     }
 }
